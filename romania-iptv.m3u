@@ -113,10 +113,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 # Animal Planet - in attesa di un URL sostitutivo
 # BBC Earth - in attesa di un URL sostitutivo
 # Crime & Investigation - nessun URL M3U incluso
-#EXTINF:-1,Digi Animal World
-http://edge24.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Digi World
-http://edge24.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,Discovery Channel
 http://92.180.26.103:80/stream/28/index.m3u8
 # DocuBox - nessun URL M3U incluso
