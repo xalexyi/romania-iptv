@@ -13,8 +13,6 @@ https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1,Acasă TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
-#EXTINF:-1,Acasă Gold
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1,Antena Stars
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 # Digi 4K - nessun URL M3U incluso
@@ -58,14 +56,6 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1,România TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
-#EXTINF:-1,Digi Sport 1
-http://85.217.192.228:4080/udp/239.239.39.14:30000
-#EXTINF:-1,Digi Sport 2
-http://85.217.192.228:4080/udp/239.239.39.20:30000
-#EXTINF:-1,Digi Sport 3
-http://edge30.rdsnet.ro/digiedge/livehlsdigisport3hq_3220/index.m3u8
-#EXTINF:-1,Digi Sport 4
-http://edge24.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,Eurosport 1
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1,Eurosport 2
@@ -85,43 +75,32 @@ http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 # AMC - nessun URL M3U incluso
-#EXTINF:-1,AXN
-http://edge24.rcs-rds.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,AXN Black
-http://edge24.rcs-rds.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,AXN Spin
-http://edge24.rdsnet.ro/digiedge2/axnspinehq/index.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,AXN White
-http://edge24.rcs-rds.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
+# AXN - in attesa di un URL sostitutivo
+# AXN Black - in attesa di un URL sostitutivo
+# AXN Spin - in attesa di un URL sostitutivo
+# AXN White - in attesa di un URL sostitutivo
 # BBC First - nessun URL M3U incluso
 #EXTINF:-1,Bollywood Clasic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 # Bollywood Film - nessun URL M3U incluso
-#EXTINF:-1,Cinemaraton
-https://cmn.digitalcable.ro/free/cm/chunks.m3u8
+# Cinemaraton - in attesa di un URL sostitutivo
 #EXTINF:-1,Cinemax
-http://89.38.8.130:39478
+http://193.33.39.108:9023/play/a01b
 #EXTINF:-1,Cinemax 2
-http://89.38.8.130:39479
-#EXTINF:-1,Cinethronix
-http://94.177.136.29:7478/play/a037
-#EXTINF:-1,Comedy Central
-http://edge84.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
+http://193.33.39.108:9009/play/a024
+# Cinethronix - in attesa di un URL sostitutivo
+# Comedy Central - in attesa di un URL sostitutivo
 # DIVA - nessun URL M3U incluso
-#EXTINF:-1,Epic Drama
-http://82.78.243.219:45739/play/a01p/index.m3u8
+# Epic Drama - in attesa di un URL sostitutivo
 # FilmBox One - nessun URL M3U incluso
 # FilmBox Emotion - nessun URL M3U incluso
 # FilmBox Hits - nessun URL M3U incluso
 # FilmBox Love & Crime - nessun URL M3U incluso
-#EXTINF:-1,Film Café
-http://edge84.rdsnet.ro/digiedge3/filmcafeehq/index.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
+# Film Café - in attesa di un URL sostitutivo
 # Film Mania - nessun URL M3U incluso
 # Film Now - nessun URL M3U incluso
-#EXTINF:-1,HBO
-http://89.38.8.130:39476
-#EXTINF:-1,HBO 2
-http://89.38.8.130:39477
+# HBO - in attesa di un URL sostitutivo
+# HBO 2 - in attesa di un URL sostitutivo
 # HBO 3 - nessun URL M3U incluso
 #EXTINF:-1,Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
@@ -131,10 +110,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 # SkyShowtime 1 - nessun URL M3U incluso
 # SkyShowtime 2 - nessun URL M3U incluso
 # Warner TV - nessun URL M3U incluso
-#EXTINF:-1,Animal Planet
-http://94.177.136.29:7478/play/a02x
-#EXTINF:-1,BBC Earth
-http://edge84.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
+# Animal Planet - in attesa di un URL sostitutivo
+# BBC Earth - in attesa di un URL sostitutivo
 # Crime & Investigation - nessun URL M3U incluso
 #EXTINF:-1,Digi Animal World
 http://edge24.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
@@ -145,28 +122,13 @@ http://92.180.26.103:80/stream/28/index.m3u8
 # DocuBox - nessun URL M3U incluso
 #EXTINF:-1,Exploris
 http://89.38.8.130:39419
-#EXTINF:-1,History
-http://edge24.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Investigation Discovery
-http://94.177.136.29:7478/play/a02y
+# History - in attesa di un URL sostitutivo
+# Investigation Discovery - in attesa di un URL sostitutivo
 #EXTINF:-1,Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1,National Geographic
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,National Geographic Wild
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
+# National Geographic - in attesa di un URL sostitutivo
+# National Geographic Wild - in attesa di un URL sostitutivo
 # Prima History - nessun URL M3U incluso
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 # Travel XP - nessun URL M3U incluso
-#EXTINF:-1,Viasat Explore
-http://edge24.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Viasat History
-http://edge24.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Viasat Nature
-http://edge24.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-# Food Network - nessun URL M3U incluso
-#EXTINF:-1,TLC
-http://82.76.252.26/digiedge2/tlcehq/index.m3u8?is=72&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV Paprika
-http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
