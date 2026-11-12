@@ -75,10 +75,12 @@ http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 # AMC - nessun URL M3U incluso
-# AXN - in attesa di un URL sostitutivo
-# AXN Black - in attesa di un URL sostitutivo
-# AXN Spin - in attesa di un URL sostitutivo
-# AXN White - in attesa di un URL sostitutivo
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+#EXTINF:-1,AXN Spin
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 # BBC First - nessun URL M3U incluso
 #EXTINF:-1,Bollywood Clasic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
@@ -122,8 +124,9 @@ http://89.38.8.130:39419
 # Investigation Discovery - in attesa di un URL sostitutivo
 #EXTINF:-1,Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-# National Geographic - in attesa di un URL sostitutivo
-# National Geographic Wild - in attesa di un URL sostitutivo
+#EXTINF:-1,National Geographic Wild
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 # Prima History - nessun URL M3U incluso
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
