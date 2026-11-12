@@ -29,8 +29,6 @@ http://89.44.231.73:7000/primatv
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1,Național 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1,Agro TV
-https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,Moldova TV
 http://89.38.8.130:39435
 #EXTINF:-1,Moldova TV
