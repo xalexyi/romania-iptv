@@ -1,142 +1,153 @@
 #EXTM3U
-#EXTINF:-1,Digi24
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1,Antena 3 CNN
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
-#EXTINF:-1,România TV
-https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
-#EXTINF:-1,Realitatea Plus
-https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1,B1 TV
-https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
-#EXTINF:-1,Prima News
-https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1,Euronews România
-https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
-#EXTINF:-1,Profit News
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1,Realitatea Sportivă
-https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1,Realitatea Star
-https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-# SENZA LINK: Canal 33
-#EXTINF:-1,NCN
-https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-# SENZA LINK: Global News
-# SENZA LINK: Linkpress TV
-#EXTINF:-1,PRO TV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+# ROMANIA IPTV - 104 CANALI SELEZIONATI
+# Lista unica, senza gruppi e senza sigle di qualita
+# Le righe SENZA SORGENTE servono solo come catalogo
+
 #EXTINF:-1,Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
-#EXTINF:-1,Kanal D
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1,Kanal D2
-https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1,Prima TV
-http://89.44.231.73:7000/primatv
-#EXTINF:-1,Antena Stars
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
-#EXTINF:-1,Happy Channel
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+#EXTINF:-1,PRO TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
 #EXTINF:-1,TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1,TVR 2
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1,TVR 3
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
-#EXTINF:-1,Național TV
-https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-#EXTINF:-1,Național 24 Plus
-https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1,A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1,Acasă TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
 #EXTINF:-1,Acasă Gold
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
-#EXTINF:-1,A7TV
-https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1,Antena Stars
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
+#EXTINF:-1,Happy Channel
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+#EXTINF:-1,Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1,Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1,Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+#EXTINF:-1,Național TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1,Național 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1,Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1,PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-# SENZA LINK: Național TV 2
+# SENZA SORGENTE: Național TV 2
 #EXTINF:-1,Antena Internațional
 https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
-# SENZA LINK: Prima World
-#EXTINF:-1,PRO Cinema
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-# SENZA LINK: Film Now
-# SENZA LINK: AMC
-# SENZA LINK: Film Café
-# SENZA LINK: DIVA
-# SENZA LINK: Cinemaraton
-# SENZA LINK: Warner TV
-# SENZA LINK: AXN
-# SENZA LINK: AXN Black
-# SENZA LINK: AXN White
-# SENZA LINK: AXN Spin
-# SENZA LINK: Epic Drama
-# SENZA LINK: Comedy Central
-# SENZA LINK: Prima Comedy
-# SENZA LINK: Film Mania
-# SENZA LINK: HBO
-# SENZA LINK: HBO 2
-# SENZA LINK: HBO 3
-# SENZA LINK: Cinemax
-# SENZA LINK: Cinemax 2
-# SENZA LINK: SkyShowtime 1
-# SENZA LINK: SkyShowtime 2
-# SENZA LINK: BBC First
-#EXTINF:-1,Nostalgia TV
-https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-# SENZA LINK: Bollywood Film
-#EXTINF:-1,Bollywood Clasic
-https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-# SENZA LINK: FilmBox One
-# SENZA LINK: FilmBox Emotion
-# SENZA LINK: FilmBox Hits
-# SENZA LINK: FilmBox Love & Crime
-# SENZA LINK: Digi Sport 1
-# SENZA LINK: Digi Sport 2
-# SENZA LINK: Digi Sport 3
-# SENZA LINK: Digi Sport 4
-# SENZA LINK: Prima Sport 1
-# SENZA LINK: Prima Sport 2
-# SENZA LINK: Prima Sport 3
-# SENZA LINK: Prima Sport 4
-# SENZA LINK: Prima Sport 5
+# SENZA SORGENTE: Prima World
+
+#EXTINF:-1,Digi24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1,B1 TV
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1,Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1,România TV
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1,Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1,Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1,Euronews România
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1,Canal 33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/index.m3u8
+#EXTINF:-1,Profit News
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1,Realitatea Sportivă
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1,Realitatea Star
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1,NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+# SENZA SORGENTE: Global News
+# SENZA SORGENTE: Linkpress TV
+
+# SENZA SORGENTE: Digi Sport 1
+# SENZA SORGENTE: Digi Sport 2
+# SENZA SORGENTE: Digi Sport 3
+# SENZA SORGENTE: Digi Sport 4
+# SENZA SORGENTE: Prima Sport 1
+# SENZA SORGENTE: Prima Sport 2
+# SENZA SORGENTE: Prima Sport 3
+# SENZA SORGENTE: Prima Sport 4
+# SENZA SORGENTE: Prima Sport 5
 #EXTINF:-1,PRO Arena
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
-# SENZA LINK: Eurosport 1
-# SENZA LINK: Eurosport 2
-# SENZA LINK: Sport Extra
+# SENZA SORGENTE: Eurosport 1
+# SENZA SORGENTE: Eurosport 2
+# SENZA SORGENTE: Sport Extra
 #EXTINF:-1,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-# SENZA LINK: Digi 4K
-# SENZA LINK: Eurosport 4K
-# SENZA LINK: Digi World
-# SENZA LINK: Digi Animal World
-# SENZA LINK: Discovery Channel
-# SENZA LINK: National Geographic
-# SENZA LINK: National Geographic Wild
-# SENZA LINK: History
-# SENZA LINK: Viasat Explore
-# SENZA LINK: Viasat History
-# SENZA LINK: Viasat Nature
-# SENZA LINK: BBC Earth
-# SENZA LINK: Prima History
+# SENZA SORGENTE: Digi 4K
+# SENZA SORGENTE: Eurosport 4K
+
+#EXTINF:-1,PRO Cinema
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+# SENZA SORGENTE: Film Now
+# SENZA SORGENTE: AMC
+# SENZA SORGENTE: Film Café
+# SENZA SORGENTE: DIVA
+#EXTINF:-1,Cinemaraton
+https://cmn.digitalcable.ro/free/cm/chunks.m3u8
+# SENZA SORGENTE: Warner TV
+# SENZA SORGENTE: AXN
+# SENZA SORGENTE: AXN Black
+# SENZA SORGENTE: AXN White
+# SENZA SORGENTE: AXN Spin
+# SENZA SORGENTE: Epic Drama
+# SENZA SORGENTE: Comedy Central
+# SENZA SORGENTE: Prima Comedy
+# SENZA SORGENTE: Film Mania
+# SENZA SORGENTE: HBO
+# SENZA SORGENTE: HBO 2
+# SENZA SORGENTE: HBO 3
+# SENZA SORGENTE: Cinemax
+# SENZA SORGENTE: Cinemax 2
+# SENZA SORGENTE: SkyShowtime 1
+# SENZA SORGENTE: SkyShowtime 2
+# SENZA SORGENTE: BBC First
+#EXTINF:-1,Nostalgia TV
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+# SENZA SORGENTE: Bollywood Film
+#EXTINF:-1,Bollywood Clasic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+# SENZA SORGENTE: FilmBox One
+# SENZA SORGENTE: FilmBox Emotion
+# SENZA SORGENTE: FilmBox Hits
+# SENZA SORGENTE: FilmBox Love & Crime
+
+# SENZA SORGENTE: Digi World
+# SENZA SORGENTE: Digi Animal World
+# SENZA SORGENTE: Discovery Channel
+# SENZA SORGENTE: National Geographic
+# SENZA SORGENTE: National Geographic Wild
+# SENZA SORGENTE: History
+# SENZA SORGENTE: Viasat Explore
+# SENZA SORGENTE: Viasat History
+# SENZA SORGENTE: Viasat Nature
+# SENZA SORGENTE: BBC Earth
+# SENZA SORGENTE: Prima History
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
-# SENZA LINK: Love Nature 4K
-# SENZA LINK: Animal Planet
-# SENZA LINK: Investigation Discovery
-# SENZA LINK: Crime & Investigation
-# SENZA LINK: DocuBox
-# SENZA LINK: Travel XP
+# SENZA SORGENTE: Love Nature 4K
+# SENZA SORGENTE: Animal Planet
+# SENZA SORGENTE: Investigation Discovery
+# SENZA SORGENTE: Crime & Investigation
+# SENZA SORGENTE: DocuBox
+# SENZA SORGENTE: Travel XP
 #EXTINF:-1,Exploris
 http://89.38.8.130:39419
-# SENZA LINK: Cinethronix
-# SENZA LINK: TV Paprika
-# SENZA LINK: Food Network
-# SENZA LINK: TLC
+# SENZA SORGENTE: Cinethronix
+
+# SENZA SORGENTE: TV Paprika
+# SENZA SORGENTE: Food Network
+# SENZA SORGENTE: TLC
