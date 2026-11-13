@@ -1,30 +1,16 @@
 #EXTM3U
+#EXTINF:-1,TEST Film Now Romania
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTM3U
 
-#EXTINF:-1,TEST AXN CEE Ungheria
-http://88.212.15.50/live/axn_hun/index.m3u8
+#EXTINF:-1,TEST Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
 
-#EXTINF:-1,TEST AXN CEE Repubblica Ceca
-http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTINF:-1,TEST FilmBox Love & Crime - ALTERNATIVA
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 
-#EXTINF:-1,TEST AXN CEE Bulgaria
-http://85.11.144.9:4222/AXN
+#EXTINF:-1,TEST FilmBox Emotion CEE
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1,TEST AXN Black Repubblica Ceca
-http://88.212.15.50/live/test_black/playlist.m3u8
-
-#EXTINF:-1,TEST AXN CEE Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
-
-#EXTINF:-1,TEST FilmBox+ One Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
-
-#EXTINF:-1,TEST FilmBox+ Hits Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
-
-#EXTINF:-1,TEST FilmBox+ Emotion Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+#EXTINF:-1,TEST AMC Europe Bulgaria
+http://45.136.153.199/AMC/mono.m3u8
