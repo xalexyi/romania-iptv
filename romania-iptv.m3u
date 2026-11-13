@@ -1,27 +1,16 @@
 #EXTM3U
-#EXTINF:-1,TEST AXN HD
-http://141.94.193.53:80/AXN_HD/index.m3u8
-#EXTINF:-1,TEST HBO HD
-http://141.94.193.53:80/HBO_HD/index.m3u8
-#EXTINF:-1,TEST HBO 2 HD
-http://141.94.193.53:80/HBO2_HD/index.m3u8
-#EXTINF:-1,TEST HBO 3 HD
-http://141.94.193.53:80/HBO3_HD/index.m3u8
-#EXTINF:-1,TEST Cinemax HD
-http://141.94.193.53:80/Cinemax_HD/index.m3u8
-#EXTINF:-1,TEST Cinemax 2 HD
-http://141.94.193.53:80/Cinemax_2_HD/index.m3u8
-#EXTINF:-1,TEST AMC HD
-http://141.94.193.53:80/AMC_HD/index.m3u8
-#EXTINF:-1,TEST Film Cafe HD
-http://141.94.193.53:80/Film_Cafe_HD/index.m3u8
-#EXTINF:-1,TEST History HD
-http://141.94.193.53:80/History_HD/index.m3u8
-#EXTINF:-1,TEST Viasat Explore HD
-http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
-#EXTINF:-1,TEST Viasat History HD
-http://141.94.193.53:80/Viasat_History_HD/index.m3u8
-#EXTINF:-1,TEST Animal Planet HD
-http://141.94.193.53:80/Animal_Planet_HD/index.m3u8
-#EXTINF:-1,TEST FilmBox
-http://141.94.193.53:80/FilmBox/index.m3u8
+#EXTINF:-1,TEST AXN Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dokagents.site/live/axnhd/mono.m3u8
+
+#EXTINF:-1,TEST AXN Black Romania - ALTERNATIVA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dokagents.site/live/axnb/mono.m3u8
+
+#EXTINF:-1,TEST AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dokagents.site/live/axnw/mono.m3u8
+
+#EXTINF:-1,TEST AXN Spin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dokagents.site/live/axns/mono.m3u8
