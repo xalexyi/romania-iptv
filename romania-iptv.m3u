@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1,TEST AXN Romania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TEST AXN Romania SENZA HEADER
 https://dokagents.site/live/axnhd/mono.m3u8
-
-#EXTINF:-1,TEST AXN Black Romania - ALTERNATIVA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TEST AXN Black Alternativa SENZA HEADER
 https://dokagents.site/live/axnb/mono.m3u8
-
-#EXTINF:-1,TEST AXN White
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TEST AXN White SENZA HEADER
 https://dokagents.site/live/axnw/mono.m3u8
-
-#EXTINF:-1,TEST AXN Spin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,TEST AXN Spin SENZA HEADER
 https://dokagents.site/live/axns/mono.m3u8
+#EXTM3U
+#EXTINF:-1,TEST Viasat History Romania 720p
+https://aes.m3u8simplu.workers.dev/viasathistory/index.m3u8
