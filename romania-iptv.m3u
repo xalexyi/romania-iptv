@@ -1,4 +1,84 @@
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTM3U
+#EXTINF:-1,Antena 1
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
+#EXTINF:-1,PRO TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+#EXTINF:-1,TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1,TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1,TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1,A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1,Acasă TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Acasă Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Antena Stars
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
+#EXTINF:-1,Happy Channel
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+#EXTINF:-1,Kanal D
+https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
+#EXTINF:-1,Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1,Prima TV
+http://89.44.231.73:7000/primatv
+#EXTINF:-1,Național TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1,Național 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1,Moldova TV
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1,Favorit TV
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1,Trinitas TV
+https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
+
+#EXTINF:-1,Digi24
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1,B1 TV
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1,Antena 3 CNN
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
+#EXTINF:-1,România TV
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1,Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1,Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1,Euronews România
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1,Realitatea Sportivă
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1,Realitatea Star
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1,NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+
+#EXTINF:-1,Sport Extra
+http://92.180.26.103:80/stream/93/index.m3u8
+#EXTINF:-1,Digi 4K
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+
+#EXTINF:-1,PRO Cinema
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1,Nostalgia TV
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1,Bollywood Clasic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1,FilmBox+ Comedy
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://92.180.26.103:80/stream/28/index.m3u8
+#EXTINF:-1,Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1,Travel XP
+https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
+
+#EXTINF:-1,Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
