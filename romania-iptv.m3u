@@ -1,50 +1,27 @@
 #EXTM3U
-# SOLO TEST - NON SOSTITUIRE LA PLAYLIST PRINCIPALE
-
-#EXTINF:-1,TEST AXN Adria
-http://5.57.74.130:8000/play/a0at/index.m3u8
-
-#EXTINF:-1,TEST AXN America Latina
-https://streaming.onnethn.com/AXN_HD/playlist.m3u8
-
-#EXTINF:-1,TEST AXN Black Ungheria
-http://141.94.193.53/axn_black/index.m3u8
-
-#EXTINF:-1,TEST AXN White Repubblica Ceca
-http://88.212.15.50/live/test_white/playlist.m3u8
-
-#EXTINF:-1,TEST HBO USA
-http://tvsen7.aynascope.net/hbo/index.m3u8
-
-#EXTINF:-1,TEST HBO 2 America Latina
-https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
-
-#EXTINF:-1,TEST Cinemax America Latina
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-
-#EXTINF:-1,TEST AMC Europa Ungheria
-http://88.212.7.14/live/amc_hun/index.m3u8
-
-#EXTINF:-1,TEST Comedy Central America Latina
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
-
-#EXTINF:-1,TEST BBC Earth Repubblica Ceca
-http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
-
-#EXTINF:-1,TEST BBC First Turchia
-http://88.212.7.14/live/bbc_first/index.m3u8
-
-#EXTINF:-1,TEST Epic Drama Repubblica Ceca
-http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
-
-#EXTINF:-1,TEST Crime & Investigation Europa Centrale
-http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
-
-#EXTINF:-1,TEST Viasat Explore internazionale
-http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
-
-#EXTINF:-1,TEST Viasat History internazionale
-http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
-
-#EXTINF:-1,TEST Viasat Nature internazionale
-http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1,TEST AXN HD
+http://141.94.193.53:80/AXN_HD/index.m3u8
+#EXTINF:-1,TEST HBO HD
+http://141.94.193.53:80/HBO_HD/index.m3u8
+#EXTINF:-1,TEST HBO 2 HD
+http://141.94.193.53:80/HBO2_HD/index.m3u8
+#EXTINF:-1,TEST HBO 3 HD
+http://141.94.193.53:80/HBO3_HD/index.m3u8
+#EXTINF:-1,TEST Cinemax HD
+http://141.94.193.53:80/Cinemax_HD/index.m3u8
+#EXTINF:-1,TEST Cinemax 2 HD
+http://141.94.193.53:80/Cinemax_2_HD/index.m3u8
+#EXTINF:-1,TEST AMC HD
+http://141.94.193.53:80/AMC_HD/index.m3u8
+#EXTINF:-1,TEST Film Cafe HD
+http://141.94.193.53:80/Film_Cafe_HD/index.m3u8
+#EXTINF:-1,TEST History HD
+http://141.94.193.53:80/History_HD/index.m3u8
+#EXTINF:-1,TEST Viasat Explore HD
+http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
+#EXTINF:-1,TEST Viasat History HD
+http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1,TEST Animal Planet HD
+http://141.94.193.53:80/Animal_Planet_HD/index.m3u8
+#EXTINF:-1,TEST FilmBox
+http://141.94.193.53:80/FilmBox/index.m3u8
