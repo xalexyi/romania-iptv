@@ -1,16 +1,23 @@
 #EXTM3U
-#EXTINF:-1,TEST Film Now Romania
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+
+#EXTINF:-1,TEST AXN Spin - NUOVO SERVER
+https://polska.hach.workers.dev/14847.m3u8
+
+#EXTINF:-1,TEST Cinemax - CEE
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,TEST Cinemax 2 - CEE
+http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+
+#EXTINF:-1,TEST Love Nature - CEE
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTM3U
 
-#EXTINF:-1,TEST Film Cafe
-http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1,TEST HBO - CEE
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1,TEST FilmBox Love & Crime - ALTERNATIVA
-http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1,TEST HBO 2 - CEE
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 
-#EXTINF:-1,TEST FilmBox Emotion CEE
-http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
-
-#EXTINF:-1,TEST AMC Europe Bulgaria
-http://45.136.153.199/AMC/mono.m3u8
+#EXTINF:-1,TEST HBO 3 - CEE
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
