@@ -1,12 +1,30 @@
 #EXTM3U
-#EXTINF:-1,TEST AXN Romania SENZA HEADER
-https://dokagents.site/live/axnhd/mono.m3u8
-#EXTINF:-1,TEST AXN Black Alternativa SENZA HEADER
-https://dokagents.site/live/axnb/mono.m3u8
-#EXTINF:-1,TEST AXN White SENZA HEADER
-https://dokagents.site/live/axnw/mono.m3u8
-#EXTINF:-1,TEST AXN Spin SENZA HEADER
-https://dokagents.site/live/axns/mono.m3u8
-#EXTM3U
-#EXTINF:-1,TEST Viasat History Romania 720p
-https://aes.m3u8simplu.workers.dev/viasathistory/index.m3u8
+
+#EXTINF:-1,TEST AXN CEE Ungheria
+http://88.212.15.50/live/axn_hun/index.m3u8
+
+#EXTINF:-1,TEST AXN CEE Repubblica Ceca
+http://88.212.15.50/live/test_axn/playlist.m3u8
+
+#EXTINF:-1,TEST AXN CEE Bulgaria
+http://85.11.144.9:4222/AXN
+
+#EXTINF:-1,TEST AXN Black Repubblica Ceca
+http://88.212.15.50/live/test_black/playlist.m3u8
+
+#EXTINF:-1,TEST AXN CEE Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+
+#EXTINF:-1,TEST FilmBox+ One Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+
+#EXTINF:-1,TEST FilmBox+ Hits Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
+
+#EXTINF:-1,TEST FilmBox+ Emotion Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
