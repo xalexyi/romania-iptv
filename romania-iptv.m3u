@@ -1,23 +1,15 @@
 #EXTM3U
+#EXTINF:-1,TEST HBO Romania - SERVER NUOVO
+http://89.38.8.130:39476
 
-#EXTINF:-1,TEST AXN Spin - NUOVO SERVER
-https://polska.hach.workers.dev/14847.m3u8
+#EXTINF:-1,TEST HBO 2 Romania - SERVER NUOVO
+http://89.38.8.130:39477
 
-#EXTINF:-1,TEST Cinemax - CEE
-http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1,TEST Cinemax Romania - SERVER NUOVO
+http://89.38.8.130:39478
 
-#EXTINF:-1,TEST Cinemax 2 - CEE
-http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1,TEST Cinemax 2 Romania - SERVER NUOVO
+http://89.38.8.130:39479
 
-#EXTINF:-1,TEST Love Nature - CEE
-http://88.212.15.50/live/test_lovenature/playlist.m3u8
-#EXTM3U
-
-#EXTINF:-1,TEST HBO - CEE
-http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
-
-#EXTINF:-1,TEST HBO 2 - CEE
-http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
-
-#EXTINF:-1,TEST HBO 3 - CEE
-http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1,TEST History Romania - SERVER NUOVO
+http://89.38.8.130:39484
