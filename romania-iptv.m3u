@@ -13,117 +13,149 @@ https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1,Acasă TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Acasă Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
 #EXTINF:-1,Antena Stars
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
-# Digi 4K - nessun URL M3U incluso
 #EXTINF:-1,Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1,Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1,Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1,Moldova TV
-https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1,Național TV
-https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-# Național TV 2 - nessun URL M3U incluso
 #EXTINF:-1,Prima TV
 http://89.44.231.73:7000/primatv
-# Prima World - nessun URL M3U incluso
-#EXTINF:-1,PRO TV International
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-#EXTINF:-1,Antena Internațional
-https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
-#EXTINF:-1,Antena 3 CNN
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-#EXTINF:-1,B1 TV
-https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
-#EXTINF:-1,Digi24
-https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1,Euronews România
-https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
-# Global News - nessun URL M3U incluso
-# Linkpress TV - nessun URL M3U incluso
+#EXTINF:-1,Național TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1,Național 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1,NCN
-https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-#EXTINF:-1,Prima News
-https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1,Realitatea Plus
-https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1,Realitatea Star
-https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1,Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1,Moldova TV
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1,PRO TV International
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
+# SENZA SORGENTE: Național TV 2
+#EXTINF:-1,Antena Internațional
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
+# SENZA SORGENTE: Prima World
+
+#EXTINF:-1,Digi24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1,B1 TV
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1,Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1,România TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
-#EXTINF:-1,Eurosport 1
-http://89.44.231.73:7000/eurosport
-#EXTINF:-1,Eurosport 2
-http://89.44.231.73:7000/eurosport2
-# Eurosport 4K - nessun URL M3U incluso
-# Prima Sport 1 - nessun URL M3U incluso
-# Prima Sport 2 - nessun URL M3U incluso
-# Prima Sport 3 - nessun URL M3U incluso
-# Prima Sport 4 - nessun URL M3U incluso
-# Prima Sport 5 - nessun URL M3U incluso
-#EXTINF:-1,PRO Arena
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1,Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1,Euronews România
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1,Realitatea Sportivă
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1,Realitatea Star
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1,NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+# SENZA SORGENTE: Global News
+# SENZA SORGENTE: Linkpress TV
+
+#EXTINF:-1,Digi Sport 1
+https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
+#EXTINF:-1,Digi Sport 2
+https://live3.cdn.dejacast.com/digisport2/digisport2_0.m3u8
+#EXTINF:-1,Digi Sport 3
+https://live3.cdn.dejacast.com/digisport3/digisport3_0.m3u8
+#EXTINF:-1,Digi Sport 4
+https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
+# SENZA SORGENTE: Prima Sport 1
+# SENZA SORGENTE: Prima Sport 2
+# SENZA SORGENTE: Prima Sport 3
+# SENZA SORGENTE: Prima Sport 4
+# SENZA SORGENTE: Prima Sport 5
+#EXTINF:-1,PRO Arena
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Eurosport 1
+https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
+#EXTINF:-1,Eurosport 2
+https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
 #EXTINF:-1,Sport Extra
 http://92.180.26.103:80/stream/93/index.m3u8
 #EXTINF:-1,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-# AMC - nessun URL M3U incluso
-# AXN - URL bocciato sulla TV, serve una sorgente sostitutiva
-#EXTINF:-1 http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",AXN Spin
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
-# BBC First - nessun URL M3U incluso
-#EXTINF:-1,Bollywood Clasic
-https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-# Bollywood Film - nessun URL M3U incluso
-# Cinemaraton - in attesa di un URL sostitutivo
-#EXTINF:-1,Cinemax
-http://193.33.39.108:9023/play/a01b
-#EXTINF:-1,Cinemax 2
-http://193.33.39.108:9009/play/a024
-# Cinethronix - in attesa di un URL sostitutivo
-# Comedy Central - in attesa di un URL sostitutivo
-# DIVA - nessun URL M3U incluso
-# Epic Drama - in attesa di un URL sostitutivo
-# FilmBox One - nessun URL M3U incluso
-# FilmBox Emotion - nessun URL M3U incluso
-# FilmBox Hits - nessun URL M3U incluso
-# FilmBox Love & Crime - nessun URL M3U incluso
-# Film Café - in attesa di un URL sostitutivo
-# Film Mania - nessun URL M3U incluso
-# Film Now - nessun URL M3U incluso
-# HBO - in attesa di un URL sostitutivo
-# HBO 2 - in attesa di un URL sostitutivo
-# HBO 3 - nessun URL M3U incluso
-#EXTINF:-1,Nostalgia TV
-https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-# Prima Comedy - nessun URL M3U incluso
+# SENZA SORGENTE: Digi 4K
+# SENZA SORGENTE: Eurosport 4K
+
 #EXTINF:-1,PRO Cinema
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-# SkyShowtime 1 - nessun URL M3U incluso
-# SkyShowtime 2 - nessun URL M3U incluso
-# Warner TV - nessun URL M3U incluso
-# Animal Planet - in attesa di un URL sostitutivo
-# BBC Earth - in attesa di un URL sostitutivo
-# Crime & Investigation - nessun URL M3U incluso
+# SENZA SORGENTE: Film Now
+# SENZA SORGENTE: AMC
+# SENZA SORGENTE: Film Café
+# SENZA SORGENTE: DIVA
+#EXTINF:-1,Cinemaraton
+https://cmn.digitalcable.ro/free/cm/chunks.m3u8
+# SENZA SORGENTE: Warner TV
+# SENZA SORGENTE: AXN
+# SENZA SORGENTE: AXN Black
+# SENZA SORGENTE: AXN White
+# SENZA SORGENTE: AXN Spin
+# SENZA SORGENTE: Epic Drama
+# SENZA SORGENTE: Comedy Central
+# SENZA SORGENTE: Prima Comedy
+# SENZA SORGENTE: Film Mania
+# SENZA SORGENTE: HBO
+# SENZA SORGENTE: HBO 2
+# SENZA SORGENTE: HBO 3
+# SENZA SORGENTE: Cinemax
+# SENZA SORGENTE: Cinemax 2
+# SENZA SORGENTE: SkyShowtime 1
+# SENZA SORGENTE: SkyShowtime 2
+# SENZA SORGENTE: BBC First
+#EXTINF:-1,Nostalgia TV
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1,Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1,Bollywood Clasic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+# SENZA SORGENTE: FilmBox One
+# SENZA SORGENTE: FilmBox Emotion
+# SENZA SORGENTE: FilmBox Hits
+# SENZA SORGENTE: FilmBox Love & Crime
+
+#EXTINF:-1,Digi World
+https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
+#EXTINF:-1,Digi Animal World
+https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
 #EXTINF:-1,Discovery Channel
 http://92.180.26.103:80/stream/28/index.m3u8
-# DocuBox - nessun URL M3U incluso
-#EXTINF:-1,Exploris
-http://89.38.8.130:39419
-# History - in attesa di un URL sostitutivo
-# Investigation Discovery - in attesa di un URL sostitutivo
-#EXTINF:-1,Love Nature 4K
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-# Prima History - nessun URL M3U incluso
+# SENZA SORGENTE: National Geographic
+#EXTINF:-1,National Geographic Wild
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+# SENZA SORGENTE: History
+# SENZA SORGENTE: Viasat Explore
+# SENZA SORGENTE: Viasat History
+# SENZA SORGENTE: Viasat Nature
+# SENZA SORGENTE: BBC Earth
+# SENZA SORGENTE: Prima History
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
-# Travel XP - nessun URL M3U incluso
+# SENZA SORGENTE: Love Nature 4K
+# SENZA SORGENTE: Animal Planet
+# SENZA SORGENTE: Investigation Discovery
+# SENZA SORGENTE: Crime & Investigation
+# SENZA SORGENTE: DocuBox
+# SENZA SORGENTE: Travel XP
+#EXTINF:-1,Exploris
+http://89.38.8.130:39419
+# SENZA SORGENTE: Cinethronix
+#EXTINF:-1,TV Paprika
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+# SENZA SORGENTE: Food Network
+# SENZA SORGENTE: TLC
