@@ -1,10 +1,4 @@
 #EXTM3U
-# ROMANIA IPTV - VERSIONE CORRETTA
-# 97 canali selezionati
-# 46 voci M3U, di cui 12 con sorgente da riparare
-# 51 canali ancora senza URL
-# Nessun gruppo
-
 #EXTINF:-1,Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1,PRO TV
