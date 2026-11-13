@@ -1,7 +1,8 @@
 #EXTM3U
-# ROMANIA - TEST QUALITA - 13 NOVEMBRE 2026
-# 97 canali scelti; varianti affiancate
-# 38 voci attive, 5 nuovi candidati
+# ROMANIA IPTV - VERSIONE AGGIORNATA
+# 97 canali selezionati
+# Versioni scelte dopo il test su LG
+# Nessun gruppo, nessun duplicato di prova
 
 #EXTINF:-1,Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
@@ -23,14 +24,8 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSecon
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 #EXTINF:-1,Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
-
-#EXTINF:-1,Kanal D - ATTUALE (480p)
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-#EXTINF:-1,Kanal D - MID (TEST)
+#EXTINF:-1,Kanal D
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
-#EXTINF:-1,Kanal D - SERVER 2 (TEST)
-https://stream2.kanald.ro/iphone/knd-live.m3u8
-
 #EXTINF:-1,Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1,Prima TV
@@ -41,7 +36,6 @@ https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1,Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
-
 # DA TROVARE: Național TV 2
 # DA TROVARE: Prima World
 
@@ -49,12 +43,8 @@ https://moldovatv.ro/live-tv/live.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1,B1 TV
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
-
-#EXTINF:-1,Antena 3 CNN - ATTUALE
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-#EXTINF:-1,Antena 3 CNN - 5000k (TEST)
+#EXTINF:-1,Antena 3 CNN
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
-
 #EXTINF:-1,România TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 #EXTINF:-1,Realitatea Plus
@@ -69,9 +59,9 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1,NCN
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-
 # DA TROVARE: Global News
 # DA TROVARE: Linkpress TV
+
 # DA TROVARE: Digi Sport 1
 # DA TROVARE: Digi Sport 2
 # DA TROVARE: Digi Sport 3
@@ -94,10 +84,8 @@ http://92.180.26.103:80/stream/93/index.m3u8
 # DA TROVARE: Digi 4K
 # DA TROVARE: Eurosport 4K
 
-#EXTINF:-1,PRO Cinema - ATTUALE
+#EXTINF:-1,PRO Cinema
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-#EXTINF:-1,PRO Cinema - OTT alternativa (TEST)
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist.m3u8
 
 # DA TROVARE: Film Now
 # DA TROVARE: AMC
@@ -158,7 +146,7 @@ https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 # DA TROVARE: Crime & Investigation
 # DA TROVARE: DocuBox
 
-#EXTINF:-1,Travel XP - Rakuten PT (TEST)
+#EXTINF:-1,Travel XP
 https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
 
 # DA TROVARE: Cinethronix
