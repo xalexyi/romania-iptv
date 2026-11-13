@@ -1,4 +1,8 @@
 #EXTM3U
+# ROMANIA - TEST QUALITA - 13 NOVEMBRE 2026
+# 97 canali scelti; varianti affiancate
+# 38 voci attive, 5 nuovi candidati
+
 #EXTINF:-1,Antena 1
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1,PRO TV
@@ -19,8 +23,14 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSecon
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 #EXTINF:-1,Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
-#EXTINF:-1,Kanal D
+
+#EXTINF:-1,Kanal D - ATTUALE (480p)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1,Kanal D - MID (TEST)
+https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
+#EXTINF:-1,Kanal D - SERVER 2 (TEST)
+https://stream2.kanald.ro/iphone/knd-live.m3u8
+
 #EXTINF:-1,Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1,Prima TV
@@ -29,23 +39,22 @@ http://89.44.231.73:7000/primatv
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1,Național 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
-#EXTINF:-1,Agro TV
-https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1,PRO TV International
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-# SENZA SORGENTE: Național TV 2
-#EXTINF:-1,Antena Internațional
-https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
-# SENZA SORGENTE: Prima World
+
+# DA TROVARE: Național TV 2
+# DA TROVARE: Prima World
 
 #EXTINF:-1,Digi24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1,B1 TV
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
-#EXTINF:-1,Antena 3 CNN
+
+#EXTINF:-1,Antena 3 CNN - ATTUALE
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1,Antena 3 CNN - 5000k (TEST)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
+
 #EXTINF:-1,România TV
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 #EXTINF:-1,Realitatea Plus
@@ -60,102 +69,99 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1,NCN
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-# SENZA SORGENTE: Global News
-# SENZA SORGENTE: Linkpress TV
 
-#EXTINF:-1,Digi Sport 1
-https://live3.cdn.dejacast.com/digisport1/digisport1_0.m3u8
-#EXTINF:-1,Digi Sport 2
-https://live3.cdn.dejacast.com/digisport2/digisport2_0.m3u8
-#EXTINF:-1,Digi Sport 3
-https://live3.cdn.dejacast.com/digisport3/digisport3_0.m3u8
-#EXTINF:-1,Digi Sport 4
-https://live3.cdn.dejacast.com/digisport4/digisport4_0.m3u8
-# SENZA SORGENTE: Prima Sport 1
-# SENZA SORGENTE: Prima Sport 2
-# SENZA SORGENTE: Prima Sport 3
-# SENZA SORGENTE: Prima Sport 4
-# SENZA SORGENTE: Prima Sport 5
+# DA TROVARE: Global News
+# DA TROVARE: Linkpress TV
+# DA TROVARE: Digi Sport 1
+# DA TROVARE: Digi Sport 2
+# DA TROVARE: Digi Sport 3
+# DA TROVARE: Digi Sport 4
+# DA TROVARE: Prima Sport 1
+# DA TROVARE: Prima Sport 2
+# DA TROVARE: Prima Sport 3
+# DA TROVARE: Prima Sport 4
+# DA TROVARE: Prima Sport 5
+
 #EXTINF:-1,PRO Arena
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
-#EXTINF:-1,Eurosport 1
-https://live3.cdn.dejacast.com/eurosport1ro/eurosport1ro_0.m3u8
-#EXTINF:-1,Eurosport 2
-https://live3.cdn.dejacast.com/eurosport2ro/eurosport2ro_0.m3u8
+
+# DA TROVARE: Eurosport 1
+# DA TROVARE: Eurosport 2
+
 #EXTINF:-1,Sport Extra
 http://92.180.26.103:80/stream/93/index.m3u8
-#EXTINF:-1,TVR Sport
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-# SENZA SORGENTE: Digi 4K
-# SENZA SORGENTE: Eurosport 4K
 
-#EXTINF:-1,PRO Cinema
+# DA TROVARE: Digi 4K
+# DA TROVARE: Eurosport 4K
+
+#EXTINF:-1,PRO Cinema - ATTUALE
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-# SENZA SORGENTE: Film Now
-# SENZA SORGENTE: AMC
-# SENZA SORGENTE: Film Café
-# SENZA SORGENTE: DIVA
-#EXTINF:-1,Cinemaraton
-https://cmn.digitalcable.ro/free/cm/chunks.m3u8
-# SENZA SORGENTE: Warner TV
-# SENZA SORGENTE: AXN
-# SENZA SORGENTE: AXN Black
-# SENZA SORGENTE: AXN White
-# SENZA SORGENTE: AXN Spin
-# SENZA SORGENTE: Epic Drama
-# SENZA SORGENTE: Comedy Central
-# SENZA SORGENTE: Prima Comedy
-# SENZA SORGENTE: Film Mania
-# SENZA SORGENTE: HBO
-# SENZA SORGENTE: HBO 2
-# SENZA SORGENTE: HBO 3
-# SENZA SORGENTE: Cinemax
-# SENZA SORGENTE: Cinemax 2
-# SENZA SORGENTE: SkyShowtime 1
-# SENZA SORGENTE: SkyShowtime 2
-# SENZA SORGENTE: BBC First
+#EXTINF:-1,PRO Cinema - OTT alternativa (TEST)
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist.m3u8
+
+# DA TROVARE: Film Now
+# DA TROVARE: AMC
+# DA TROVARE: Film Café
+# DA TROVARE: DIVA
+# DA TROVARE: Cinemaraton
+# DA TROVARE: Warner TV
+# DA TROVARE: AXN
+# DA TROVARE: AXN Black
+# DA TROVARE: AXN White
+# DA TROVARE: AXN Spin
+# DA TROVARE: Epic Drama
+# DA TROVARE: Comedy Central
+# DA TROVARE: Prima Comedy
+# DA TROVARE: Film Mania
+# DA TROVARE: HBO
+# DA TROVARE: HBO 2
+# DA TROVARE: HBO 3
+# DA TROVARE: Cinemax
+# DA TROVARE: Cinemax 2
+# DA TROVARE: SkyShowtime 1
+# DA TROVARE: SkyShowtime 2
+# DA TROVARE: BBC First
+
 #EXTINF:-1,Nostalgia TV
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-#EXTINF:-1,Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+
+# DA TROVARE: Bollywood Film
+
 #EXTINF:-1,Bollywood Clasic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-# SENZA SORGENTE: FilmBox One
-# SENZA SORGENTE: FilmBox Emotion
-# SENZA SORGENTE: FilmBox Hits
-# SENZA SORGENTE: FilmBox Love & Crime
 
-#EXTINF:-1,Digi World
-https://live3.cdn.dejacast.com/digiworld/digiworld_0.m3u8
-#EXTINF:-1,Digi Animal World
-https://live3.cdn.dejacast.com/digianimalworld/digianimalworld_0.m3u8
+# DA TROVARE: FilmBox One
+# DA TROVARE: FilmBox Emotion
+# DA TROVARE: FilmBox Hits
+# DA TROVARE: FilmBox Love & Crime
+# DA TROVARE: Digi World
+# DA TROVARE: Digi Animal World
+
 #EXTINF:-1,Discovery Channel
 http://92.180.26.103:80/stream/28/index.m3u8
-# SENZA SORGENTE: National Geographic
-#EXTINF:-1,National Geographic Wild
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-# SENZA SORGENTE: History
-# SENZA SORGENTE: Viasat Explore
-# SENZA SORGENTE: Viasat History
-# SENZA SORGENTE: Viasat Nature
-# SENZA SORGENTE: BBC Earth
-# SENZA SORGENTE: Prima History
+
+# DA TROVARE: National Geographic
+# DA TROVARE: National Geographic Wild
+# DA TROVARE: History
+# DA TROVARE: Viasat Explore
+# DA TROVARE: Viasat History
+# DA TROVARE: Viasat Nature
+# DA TROVARE: BBC Earth
+# DA TROVARE: Prima History
+
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
-# SENZA SORGENTE: Love Nature 4K
-# SENZA SORGENTE: Animal Planet
-# SENZA SORGENTE: Investigation Discovery
-# SENZA SORGENTE: Crime & Investigation
-# SENZA SORGENTE: DocuBox
-# SENZA SORGENTE: Travel XP
-#EXTINF:-1,Exploris
-http://89.38.8.130:39419
-# SENZA SORGENTE: Cinethronix
-#EXTINF:-1,TV Paprika
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
-# SENZA SORGENTE: Food Network
-# SENZA SORGENTE: TLC
+
+# DA TROVARE: Love Nature 4K
+# DA TROVARE: Animal Planet
+# DA TROVARE: Investigation Discovery
+# DA TROVARE: Crime & Investigation
+# DA TROVARE: DocuBox
+
+#EXTINF:-1,Travel XP - Rakuten PT (TEST)
+https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/playlist.m3u8
+
+# DA TROVARE: Cinethronix
+# DA TROVARE: TV Paprika
+# DA TROVARE: Food Network
+# DA TROVARE: TLC
